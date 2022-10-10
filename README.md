@@ -1,2 +1,2 @@
-# telegram-bot
-![Снимок](https://user-images.githubusercontent.com/115460227/194842190-175bc54e-b6fd-4d25-a50c-086ed001e7c0.PNG)
+# telegram-bot screen+user stealer
+![screen](https://user-images.githubusercontent.com/115460227/194842645-40668c48-15ee-444d-94da-e5c95f8b31fa.PNG)
